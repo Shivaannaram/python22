@@ -14,3 +14,4 @@ def ope(a,b):
 a=int(input("enter a number"))
 b=int(input("enter b number"))
 ope(a,b)
+print(sum,dif,mul)
