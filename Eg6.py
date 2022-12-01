@@ -6,7 +6,7 @@ def ope(a,b):
     print("deifference of two numbers is:",dif)
 
     mul=a*b
-    print("multiplication of two numbers is:",mul)\
+    print("multiplication of two numbers is:",mul)
 
     div=a/b
     print("divison of two numbers is:", div)
