@@ -14,4 +14,7 @@ def ope(a,b):
 a=int(input("enter a number"))
 b=int(input("enter b number"))
 ope(a,b)
+<<<<<<< HEAD
 
+=======
+>>>>>>> b3be35ef752d1d758058c3bdd44642cf1f3009ac
